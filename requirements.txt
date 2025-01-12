@@ -1,0 +1,8 @@
+matplotlib
+scipy
+tqdm
+torch
+torchaudio
+torchvision
+torchdiffeq
+# Use pytorch-cuda in conda
